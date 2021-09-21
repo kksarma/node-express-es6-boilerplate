@@ -16,7 +16,7 @@ Getting Started
 ```sh
 
 1. Clone repo    
-`git clone https://github.com/suvankar-kundu/node-express-es6-boilerplate.git <dir_name>`    
+`git clone https://github.com/kksarma/node-express-es6-boilerplate.git <dir_name>`    
 
 2. Change directory    
 `cd <dir_name>`    

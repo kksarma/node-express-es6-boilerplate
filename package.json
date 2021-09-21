@@ -11,11 +11,11 @@
     "start": "./node_modules/.bin/babel-node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Suvankar Kundu",
+  "author": "Krishan Kant Sharma <kks.4084@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suvankar-kundu/node-express-es6-boilerplate.git"
+    "url": "git+https://github.com/kksarma/node-express-es6-boilerplate.git"
   },
   "keywords": [
     "nodejs",
